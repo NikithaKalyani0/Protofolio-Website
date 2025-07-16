@@ -1,73 +1,38 @@
-# 👩‍💻 Duvvada Nikitha Kalyani - Web Projects
+# 🌐 Portfolio Website - Duvvada Nikitha Kalyani
 
-This repository contains two front-end web development projects built using HTML, CSS, and JavaScript:
-
-1. [Portfolio Website](#1-portfolio-website)
-2. [Student Grade Calculator](#2-student-grade-calculator)
+This is a personal portfolio website created to showcase my profile, education, skills, and projects. Built using **HTML, CSS, and JavaScript**, the site features a clean, responsive design and a user-friendly layout.
 
 ---
 
-## 1. 🌐 Portfolio Website
+## ✨ Features
 
-### Description
-A personal portfolio website that highlights my profile, education, skills, and featured projects. Designed with simplicity and clarity in mind, it presents content in a clean and responsive layout.
-
-### ✨ Features
-- Responsive design for desktop and mobile
-- Custom sections: About, Education, Skills, Projects, and Contact
-- Integrated profile photo
-- Light gray background with modern styling
-
-### 🛠️ Tech Stack
-- HTML
-- CSS
-- JavaScript
-
-### 🔗 Live Preview
-*(If hosted, add link here)*  
-Example: [View Portfolio](https://your-portfolio-link.com)
+- 📷 Profile photo with brief introduction
+- 📚 About, Education, Skills, Projects, and Contact sections
+- 🎨 Light pink headings with a soft gray background for elegant aesthetics
+- ⚡ Responsive and simple UI
+- 💻 Displays technical skills and completed projects
 
 ---
 
-## 2. 📊 Student Grade Calculator
+## 🛠️ Technologies Used
 
-### Description
-A simple and interactive web application that allows users to input a student's name and marks for five subjects. It calculates the total marks, average score, and assigns a grade based on the average.
-
-### ✨ Features
-- User-friendly interface
-- Real-time calculation using JavaScript
-- Grade assignment logic based on average marks
-- Fully responsive design
-
-### 🛠️ Tech Stack
-- HTML
-- CSS
-- JavaScript
-
-### 🔗 Live Preview
-*(If hosted, add link here)*  
-Example: [Try Student Grade Calculator](https://your-grade-calculator-link.com)
+- **HTML5**
+- **CSS3**
+- **JavaScript**
 
 ---
 
-## 📸 Screenshots
-*(Optional: Add images of your website or app interfaces here)*
+## 📸 Preview
+
+![Portfolio Screenshot](https://via.placeholder.com/800x400?text=Portfolio+Screenshot)
+> *(Replace this link with your actual screenshot if hosted)*
 
 ---
 
-## 👩‍💼 About Me
+## 🚀 Getting Started
 
-I’m **Duvvada Nikitha Kalyani**, a B.Tech Computer Science Engineering student from NSRIT, Visakhapatnam. I enjoy building front-end projects that blend creativity with functionality.
+To view the website locally:
 
----
-
-## 📬 Contact
-
-- **Email:** your.email@example.com  
-- **Phone:** +91-XXXXXXXXXX  
-- *(Add LinkedIn, GitHub links if available)*
-
----
-
-> 💡 *These projects reflect my interest in front-end web development and creative problem-solving. Feedback and suggestions are always welcome!*
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/portfolio-website.git
